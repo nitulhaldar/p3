@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    background-color: black;
+    color: white;
+}
+
+body {
+    min-height: 50vh;
+    background-image: url("https://images.wallpapersden.com/image/download/boa-hancock-and-monkey-luffy-art-one-piece-4k_bWdpaWuUmZqaraWkpJRobWllrWdma2U.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    color:pink;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+input {
+    padding: 14px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+button {
+    padding: 12px 30px;
+    background: pink;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#par {
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    margin-top: 20px;
+}
